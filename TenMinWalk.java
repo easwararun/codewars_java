@@ -58,8 +58,3 @@ public class TenMinWalk {
         return x == 0 && y == 0;
       }
   }
-
-
-public class TenMinWalk1 {
-    
-  }
